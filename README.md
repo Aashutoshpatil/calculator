@@ -7,8 +7,7 @@ This calculator performs basic arithmetic operations with a clean and user-frien
 
 👉 Add your live link here
 
-https://yourusername.github.io/calculator/
-
+https://calculator-eta-five-74.vercel.app/
 📌 Features
 
 ➕ Addition
@@ -51,7 +50,8 @@ JavaScript handles button clicks and performs calculations dynamically.
 
 (Add your project screenshot here)
 
-![Calculator Screenshot](screenshot.png)
+<img width="1165" height="596" alt="Screenshot 2026-02-16 163333" src="https://github.com/user-attachments/assets/a9c871b2-669b-436d-bbb6-bbfb4422bb33" />
+
 
 📈 Future Improvements
 
